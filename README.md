@@ -16,8 +16,8 @@ _Foi feito com muito entusiasmo e carinho :)_
 
 ### Imagens Demonstrativas
 <p align="center">
-  <img src="https://github.com/raissaqueiroz/upload-images/blob/master/screenshots/tela_1.png" width=400 height=200/>
-  <img src="https://github.com/raissaqueiroz/upload-images/blob/master/screenshots/tela_2.png" width=400 height=200/>
+  <img src="https://github.com/raissaqueiroz/upload-images-webapp/blob/master/screenshots/tela_1.png" width=400 height=200/>
+  <img src="https://github.com/raissaqueiroz/upload-images-webapp/blob/master/screenshots/tela_2.png" width=400 height=200/>
 </p>
 
 ## Guia Rápido de Instalação
