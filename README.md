@@ -1,6 +1,6 @@
 # Upload de Imagens
 
-Essa aplicação foi desenvolvida para praticar os conhecimentos em uploads de imagens. Através desa aplicação você consegue fazer upload de imagens, visualiza-las e excluí-las.
+Essa aplicação foi desenvolvida para praticar os conhecimentos em uploads de imagens. Através dessa aplicação você consegue fazer upload de imagens, visualiza-las e excluí-las.
 
 _Foi feito com muito entusiasmo e carinho :)_
 
@@ -9,7 +9,7 @@ _Foi feito com muito entusiasmo e carinho :)_
 <ul>
   <li>React Hooks</li>
   <li>Consumo de API's Rest com Axios</li>
-  <li>Atyled Components</li>
+  <li>Styled Components</li>
   <li>Upload de Imagens com a Biblioteca Dropzone</li>
   <li>Gitflow e Commits Semanticos</li>
  </ul>
